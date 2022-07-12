@@ -106,7 +106,7 @@
 		"econ.TH": "Theoretical Economics"
 	},
 	"computer science": {
-		"cs.Al": "Artificial Intelligence",
+		"cs.AI": "Artificial Intelligence",
 		"cs.CL": "Computation and Language",
 		"cs.CC": "Computational Complexity",
 		"cs.CE": "Computational Engineering, Finance, and Science",
@@ -133,7 +133,7 @@
 		"cs.MS": "Mathematical Software",
 		"cs.MA": "Multiagent Systems",
 		"cs.MM": "Multimedia",
-		"cs.Nl": "Networking and Internet Architecture",
+		"cs.NI": "Networking and Internet Architecture",
 		"cs.NE": "Neural and Evolutionary Computing",
 		"cs.NA": "Numerical Analysis",
 		"cs.OS": "Operating Systems",
